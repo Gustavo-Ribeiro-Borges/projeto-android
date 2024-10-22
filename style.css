@@ -215,3 +215,8 @@ p > a:hover {
     text-decoration: underline;
     color: var(--cor1);
 }
+
+a.externo:hover {
+    text-decoration: underline;
+    color: #063d1e;
+}
