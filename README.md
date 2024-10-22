@@ -7,12 +7,13 @@
 
 <p align="left">
   <ol>
-    <li>O site Projeto Android possui diversas características de HTML e CSS:</li>
+    <p>O site Projeto Android possui diversas características de HTML e CSS:</p>
     <li>Estrutura Semântica: Uso de tags HTML5 para organizar o conteúdo de maneira lógica.</li>
     <li>Estilização Atraente: O CSS define cores harmoniosas, tipografia legível e espaçamentos adequados, proporcionando um visual agradável.</li>
     <li>Imagens Integradas: Elementos visuais, como imagens do mascote, enriquecem a apresentação.</li>
     <li>Navegação Clara: Links bem definidos facilitam o acesso a diferentes seções.</li>
-    <li>Layout Responsivo: O design se adapta a diversos tamanhos de tela, melhorando a usabilidade.<br>Esses elementos criam uma experiência informativa e visualmente envolvente.</li>
+    <li>Layout Responsivo: O design se adapta a diversos tamanhos de tela, melhorando a usabilidade.</li>
+    <p>Esses elementos criam uma experiência informativa e visualmente envolvente.</p>
   </ol>
 </p>
 
